@@ -32,5 +32,3 @@ Un algorithme doit toujours se terminer et fournir un résultat. Un algorithme e
 
 * Git
   * git remote add origin <url_du_repo_distant>
-
-### Jour 2
