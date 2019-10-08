@@ -19,6 +19,7 @@ L'acronyme HTTP signifie "Hypertext Transfert Protocol". Il a été inventé par
 Le but du protocole HTTP est de permettre un transfert de fichiers (essentiellement au format HTML) localisés grâce à une chaîne de caractères appelée URL (Uniform Resource Locator) entre un navigateur (le client) et un serveur Web.
 
 Une adresse Internet est toujours constituée de la façon suivante :
+
 ```html
 <protocole>://<adresse-du-serveur>:<port>/<chemin>/<ressource>
 ```
@@ -34,6 +35,8 @@ Quand vous vous authentifiez, vous envoyez votre identifiant et votre mot de pas
 Le problème étant que pour ça, vous devez l’envoyer. C’est à ce moment-là que vos infos sont les plus vulnérables car il existe une attaque, appelée “[Man in the Middle](https://fr.wikipedia.org/wiki/Attaque_de_l%27homme_du_milieu)”, littéralement “Homme au milieu” qui consiste à écouter et intercepter des flux de données, et à les relayer au serveur comme si de rien n’était.
 
 ## Explications du protocole HTTPS
+
+La version sécurisée du protocole HTTPS a vu le jour peu de temps après son grand frère, en 1994. Cela fonctionne exactement comme le protocole HTTP, mais avec la certitude que c’est bien le serveur qui vous répond, et pas un “Man in the Middle”.
 
 ## les certificats
 
@@ -55,6 +58,10 @@ Le problème étant que pour ça, vous devez l’envoyer. C’est à ce moment-l
     <https://www.webexmachina.fr/article/2018/04/le-petit-guide-du-protocole-https-certificat-ssl.html>
 
     <https://fr.wikipedia.org/wiki/Certificat_%C3%A9lectronique>
+
+    <http://wiki.linuxwall.info/doku.php/fr:ressources:dossiers:ssl_pki:1_les_bases>
+
+    <https://guersanguillaume.com/site-web-https-explications-avantages-seo/>
 
 - Format de la page de présentation :
 
