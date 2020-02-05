@@ -11,7 +11,11 @@ Liste de liens (Tutos, support de cours, etc...) :
   - OAuth 2.0 :
   
     - [Implémentation de OAuth2.0 sur Spring](https://spring.io/guides/tutorials/spring-boot-oauth2/)
-    - [Utilisation des **@Secured** pour sécuriser les méthodes](https://www.concretepage.com/spring/spring-security/spring-security-using-secured-annotation)
+    
+    - @Secured :
+    
+      - [Utilisation des **@Secured** pour sécuriser les méthodes](https://www.concretepage.com/spring/spring-security/spring-security-using-secured-annotation)
+      - [Javadoc sur @Secured](https://docs.spring.io/spring-security/site/docs/3.2.8.RELEASE/apidocs/org/springframework/security/access/annotation/Secured.html)
 
 ### Outils
 Liste des outils utiles
