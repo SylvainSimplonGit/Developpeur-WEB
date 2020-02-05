@@ -20,6 +20,8 @@ Liste des outils utiles
   - [Voir en direct votre code HTML avec VSCode live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   - [SWAGGER Création Doc](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)
   - [Reset PostgreSQL Password](https://dba.stackexchange.com/questions/44586/forgotten-postgresql-windows-password)
+  - [Maquettage par Pencil](https://pencil.evolus.vn/)
+  - [Expression régulière](https://regex101.com/#javascript)
   
 ### Solutions de projets
 
